@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @meursault-github
 - 👀 I’m interested in gaming, programming and do sport 
 - 🌱 I’m currently learning front-end
-- 💞️ I’m looking to collaborate on amibitius front-end and IT projects  
+- 💞️ I’m looking to collaborate on amibitious front-end and IT projects  
 - 📫 How to reach me hubertmlynarczyk.2001@gmail.com
 
 <!---
